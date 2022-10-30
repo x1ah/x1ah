@@ -10,6 +10,9 @@
 <p align="center">
   <a href=".">
     <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="32" height="32" />
+    <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="32" height="32" />
+    <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="32" height="32" />
+    <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="32" height="32" />
   </a>
 </p>
 
