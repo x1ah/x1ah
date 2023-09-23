@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/x1ah">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=x1ah.github" />
+    <img src="https://hits.dwyl.com/x1ah/x1ah.svg?style=flat" />
   </a>
 </p>
 
